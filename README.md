@@ -46,6 +46,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
   - [MVC, MVP, MVVM, MVVM-C, and VIPER](#mvc-mvp-mvvm-mvvm-c-and-viper)
   - [18 Key Design Patterns Every Developer Should Know](#18-key-design-patterns-every-developer-should-know)
 - [Database](#database)
+
   - [A nice cheat sheet of different databases in cloud services](#a-nice-cheat-sheet-of-different-databases-in-cloud-services)
   - [8 Data Structures That Power Your Databases](#8-data-structures-that-power-your-databases)
   - [How is an SQL statement executed in the database?](#how-is-an-sql-statement-executed-in-the-database)
